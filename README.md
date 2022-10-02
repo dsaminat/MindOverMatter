@@ -1,2 +1,3 @@
 # MindOverMatter
-theme: minima
+
+Sample text
