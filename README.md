@@ -1,1 +1,2 @@
 # MindOverMatter
+theme: minima
